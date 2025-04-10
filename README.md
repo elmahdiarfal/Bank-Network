@@ -1,6 +1,5 @@
 # 🏦 BankNet Enterprise Network Design
 
-### 📄 Final Year Network Infrastructure Project  
 **Author:** El Mahdi ARFAL  
 **Academic Year:** 2024/2025  
 **Institution:** Institut National des Postes et Télécommunications  
