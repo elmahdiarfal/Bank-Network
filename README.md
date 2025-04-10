@@ -16,7 +16,7 @@ BankNet is a robust enterprise-grade network designed for a banking institution.
 
 - `Bank_Network.pkt` – Cisco Packet Tracer simulation file of the full network  
 - `network_architecture.png` – High-level topology diagram  
-- `Bank_Network_Report.pdf` – Final formatted report (LaTeX)  
+- `Bank_Network_Report.pdf` – Project report
 
 ---
 
