@@ -79,7 +79,7 @@ BankNet is a robust enterprise-grade network designed for a banking institution.
 
 ## 📚 Report
 
-View the full technical documentation here 👉 [Network_Report.pdf](./Bank_Network%20(2).pdf)
+View the full technical documentation here 👉 [Network_Report.pdf](./Network_Report.pdf)
 
 ---
 
