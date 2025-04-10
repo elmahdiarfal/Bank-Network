@@ -1,4 +1,4 @@
-# 🏦 BankNet Enterprise Network Design
+# 🏦 Bank Enterprise Network Design
 
 **Author:** El Mahdi ARFAL  
 **Academic Year:** 2024/2025  
